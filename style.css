@@ -1,0 +1,24 @@
+* {
+    font-family: "roboto", sans-serif;
+    box-sizing: border-box;
+
+}
+.main {
+    height: 100vh ;
+
+}
+.tittle {
+    font-weight: bold;
+    background-color: azure;
+    color: darkturquoise;
+    padding: 60px;
+    width: 100%;
+    border: 3px solid rgb(46, 178, 240);
+    border-radius: 15px;
+
+}
+.second {
+    background-color: red;
+    width: 200px;
+    
+}
